@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <title>Test Soal PT. Duta Generasi Mandiri</title>
+    <title>Test Algoritma Dasar</title>
 </head>
 
 <body>
@@ -15,7 +15,6 @@
                 <div class="form-group">
                     <label class="text-dark">
                         <h5>ALFREDO GARCIA ELBARTA TARIGAN</h5>
-                        <h6>Posisi Product Development</h6>
                     </label>
                 </div>
             </div>
